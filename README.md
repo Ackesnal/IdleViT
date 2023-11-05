@@ -1,6 +1,6 @@
 # IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss
 
-This repository is the official implementation of [IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss]. 
+This repository is the official implementation of [IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss](https://arxiv.org/abs/2310.05654). Accepted to AJCAI23
 
 ## Requirements
 
